@@ -1,0 +1,26 @@
+app_launcher3
+Version 0.1
+30 November 2023
+
+Basic Features
+- Launch .exe, .py/pyw, .txt, Steam app, websites
+- Add, Edit, Delete Apps
+- Designed for 1360x768(Done) & 1920x1080(On progress)
+
+Language
+- Python 3.10
+
+Module Used
+- Tkinter
+- subprocess
+- webbrowser
+- ctypes
+- Pillow
+
+Notice
+app_launcher3 cannot run without app_library file. If somehow it got deleted, create a new file name it "app_library.py", open it and copy this script bellow.
+apps = {
+	}
+
+Alief Karunia Dzamar
+aliefeila12@gmail.com
